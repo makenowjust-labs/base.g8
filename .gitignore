@@ -62,3 +62,8 @@ metals.sbt
 .idea/modules
 *.iml
 *.ipr
+
+
+### Customized
+
+.idea/
